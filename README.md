@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lewis-morris
 - 👀 I’m interested in Python, JS, Music Production, Cycling and Baking 
 - 🌱 I’m currently learning anything that comes my way.
-- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me on lewis.morris@gmail.com
 
 <!---
