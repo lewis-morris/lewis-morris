@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lewis-morris
-- 👀 I’m interested in Python, JS, Running/Cycling and Baking 
-- 🌱 I’m currently learning anything that comes my way.
-- 📫 You can reach me on lewis.morris@gmail.com
+- 👀 I’m a freelace developer, who loves python.
+- 🌱 I’m currently learning rust.
+- 👉 I am a serial tinkerer.
+- 📫 You can reach me on lewis@arched.dev
 
 <!---
 lewis-morris/lewis-morris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
